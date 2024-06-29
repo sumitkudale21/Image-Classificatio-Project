@@ -22,5 +22,3 @@ The project structure includes the following components:
 - **`requirements.txt`**: List of Python packages required to run the project.
 - **`README.md`**: Project documentation providing an overview, setup instructions, and usage guidelines (this file).
 
-## Usage
-
