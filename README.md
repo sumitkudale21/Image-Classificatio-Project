@@ -24,10 +24,3 @@ The project structure includes the following components:
 
 ## Usage
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your_username/image-classification-project.git
-   cd image-classification-project
